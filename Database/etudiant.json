@@ -1,0 +1,29 @@
+{
+  "etudiants": [
+    {
+      "id": 1778700855152,
+      "nom": "Anim bene",
+      "role": "Professeur",
+      "mail": "ceci@mailinator.com",
+      "telephone": "788848483",
+      "date": "13 mai, 19:50"
+    },
+    {
+      "id": 1778700966589,
+      "nom": "Minim exercitationem Exercitationem volup",
+      "role": "Professeur",
+      "mail": "raniz@mailinatorn.com",
+      "telephone": "763456788",
+      "date": "13 mai, 19:36"
+    },
+    {
+      "id": 1778701771637,
+      "nom": "Fuga Hic ad ut aliq Occaecat obcaecati e",
+      "role": "Personnel",
+      "mail": "biquxyzome@mailinator.com",
+      "telephone": "788848489",
+      "date": "13 mai, 19:49"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

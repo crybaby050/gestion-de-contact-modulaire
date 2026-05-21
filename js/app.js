@@ -7,6 +7,19 @@ import { creerCarteEtudiant } from './UI/card.js';
 import { createModal } from './UI/modal.js';
 import { afficherMessageGlobal } from './UI/notification.js';
 import { renderPagination } from './UI/pagination.js';
+import { requireAuth, logout } from './auth/authService.js';
+
+// --- GARDE D'AUTHENTIFICATION ---
+// Redirige vers login.html si l'utilisateur n'est pas connecté
+requireAuth();
+
+// --- BOUTON DÉCONNEXION ---
+const logoutBtn = document.getElementById('logoutBtn');
+if (logoutBtn) {
+    logoutBtn.addEventListener('click', () => {
+        logout(); // redirige vers login.html et efface la session
+    });
+}
 
 let etudiantEnModification = null;
 let dateOriginale = null;

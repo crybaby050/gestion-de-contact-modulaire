@@ -1,28 +1,50 @@
 {
   "etudiants": [
     {
-      "id": 1778700855152,
-      "nom": "Anim bene",
+      "id": "NWzNkaRbkXQ",
+      "nom": "Eius vlad",
       "role": "Professeur",
-      "mail": "ceci@mailinator.com",
-      "telephone": "788848483",
-      "date": "13 mai, 19:50"
+      "mail": "neje@mailinator.com",
+      "telephone": "773737373",
+      "date": "14 mai, 12:08"
     },
     {
-      "id": 1778700966589,
-      "nom": "Minim exercitationem Exercitationem volup",
-      "role": "Professeur",
-      "mail": "raniz@mailinatorn.com",
-      "telephone": "763456788",
-      "date": "13 mai, 19:36"
+      "id": "WmRK1u-mcYs",
+      "nom": "Tenetur occaecat exe Dolorem amet earum",
+      "role": "Visiteur",
+      "mail": "nucipypun@mailinator.com",
+      "telephone": "783848483",
+      "date": "14 mai, 11:56"
     },
     {
-      "id": 1778701771637,
-      "nom": "Fuga Hic ad ut aliq Occaecat obcaecati e",
-      "role": "Personnel",
-      "mail": "biquxyzome@mailinator.com",
-      "telephone": "788848489",
-      "date": "13 mai, 19:49"
+      "id": "BLfK-jAPHdM",
+      "nom": "Adipisci est molesti Harum iste suscipit",
+      "role": "Visiteur",
+      "mail": "dokyzana@mailinator.com",
+      "telephone": "788383828",
+      "date": "14 mai, 12:07"
+    },
+    {
+      "id": "goE3mB6Zro0",
+      "nom": "Dolor enim blanditii Repellendus Digniss",
+      "role": "Visiteur",
+      "mail": "lulyf@mailinator.com",
+      "telephone": "776565454",
+      "date": "21 mai, 17:32"
+    }
+  ],
+  "users": [
+    {
+      "id": "user_001",
+      "nom": "Administrateur",
+      "mail": "admin@ecole221.sn",
+      "password": "admin123"
+    },
+    {
+      "id": "user_002",
+      "nom": "Prof Diallo",
+      "mail": "diallo@ecole221.sn",
+      "password": "diallo2025"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
